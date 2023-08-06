@@ -1,6 +1,3 @@
-Unit 7: Capstone #3
-===
-
 # Translation
 
 ## Table of Contents
@@ -22,15 +19,10 @@ Record or recognize the text in the pictures uploaded by users, and convert the 
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories**
+### 1. User Stories 
 
 * User can record speech in a source language and translate it to a target language in real time
 * User can use the app as a regular translating app
-
-
-**Optional Nice-to-have Stories**
 
 * After translating, users can play the text outloud
 * User can upload audio recording in a source language and translate it to a target language in real time
@@ -65,19 +57,4 @@ Record or recognize the text in the pictures uploaded by users, and convert the 
 * Result Selection -> Jumps to Translation result screen
 * Setting -> Select translate languages
 
-## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="./controller.jpg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
